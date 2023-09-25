@@ -22,6 +22,7 @@ public class AuthorController {
 
     @QueryMapping
     public Iterable<Author> getAllAuthors(){
+        //throw new CustomGraphQLException(400, "An error occurred while processing your request.");
         return queryAndMutationResolver.getAllAuthors();
     }
 
