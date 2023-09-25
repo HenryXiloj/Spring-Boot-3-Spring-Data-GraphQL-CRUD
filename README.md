@@ -5,5 +5,5 @@ Integration Spring boot 3, Spring Data JPA, Graphql, HyperSQL and Java 17
 [Spring Boot 3 Spring Data GraphQL CRUD](https://jarmx.blogspot.com/2023/05/spring-boot-3-spring-data-graphql-crud.html)
 
 # GraphQL Error Handling
-[GraphQL Error Handling](https://www.linkedin.com/pulse/graphql-error-handling-spring-boot-3-henry-xiloj-herrera)
+[GraphQL Error Handling](https://jarmx.blogspot.com/2023/09/graphql-error-handling-with-spring-boot.html)
 
